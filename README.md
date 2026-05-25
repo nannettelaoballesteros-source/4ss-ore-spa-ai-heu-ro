@@ -1,6 +1,6 @@
 HEU-RO ETHICAL MIT VARIANT LICENSE
 
-Copyright (c) 2026 Nannette Lao Ballesteros / Delta N Omega (DNO). All Rights Reserved.
+Copyright (c) 2026 Nannette Lao Ballesteros / Delta N Omega (DNO). Patent Pending.  All Rights Reserved.
 
 ETHICAL USE RESTRICTION:
 Permission is hereby granted to use, modify, and distribute this software, 
