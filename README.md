@@ -1,4 +1,4 @@
-# HEU-RO Safeguard Paradigm Architecture (4SS-ORE AI-HEU-RO)
+# SPA: HEU-ro Safeguard Paradigm Architecture (4SS-ORE AI-HEU-RO)
 ### **Deterministic Veracity Gating & Boundary Validation Baseline**
 **Immutable Ethical Gating & Real-Time Decision Boundaries for Autonomous Systems**
 
@@ -13,16 +13,16 @@
 ---
 
 ## 1. System Overview
-**4SS-ORE-01-HEURO** is a deterministic, hardware-gated veracity verification and boundary constraint framework engineered for autonomous agents, high-speed neural substrates, and automated logic controllers. Originating from Delta Nannette Omega - Yeoman LLC (DNO-Y) and open-sourced via the BNG Global Humanitarian Foundation (BNG-GHF), the architecture replaces probabilistic filtering layers with immutable, inline decision gates executing at the lowest logic layer. Commercial deployments, proprietary enterprise integration suites, and solid-state silicon controllers remain under separate commercial license with Ballesteros Ballast Infrastructure LLC (BBI) and Delta Nannette Omega - Yeoman LLC (DNO-Y).
+**4SS-ORE-SPA-AI-HEU-RO** is a deterministic, hardware-gated veracity verification and boundary constraint framework engineered for autonomous agents, high-speed neural substrates, and automated logic controllers. Originating from Delta Nannette Omega - Yeoman LLC (DNO-Y) and open-sourced via the BNG Global Humanitarian Foundation (BNG-GHF), the architecture replaces probabilistic filtering layers with immutable, inline decision gates executing at the lowest logic layer. Commercial deployments, proprietary enterprise integration suites, and solid-state silicon controllers remain under separate commercial license with Ballesteros Ballast Infrastructure LLC (BBI) and Delta Nannette Omega - Yeoman LLC (DNO-Y).
 
 ---
 
 ## 2. Core Functional Features & Modules
-* **HEURO-01 (Deterministic Veracity Gate & Logic Kernel):**
+* **SPA-01 (Deterministic Veracity Gate & Logic Kernel):**
   * Hardcoded limit-state validation preventing out-of-envelope algorithmic actions.
   * Sub-microsecond intervention executing prior to state commitment without inducing execution latency.
   * Static boundary verification isolating life-safety and ethical invariants from adaptive dynamic weights.
-* **HEURO-02 (Fail-Safe Neutral State & Grounding Controller):**
+* **SPA-02 (Fail-Safe Neutral State & Grounding Controller):**
   * Automated system grounding and safe-state reversion upon telemetry anomalies or integrity failure.
   * Real-time invariant monitoring across all input and output transitions.
   * Sovereign override isolation protecting baseline operating rules from sycophantic drift.
@@ -32,7 +32,7 @@
 ## 3. Statutory & Prior Art Notice
 > **PRIORITY & PRIOR ART NOTICE:** The systems, structural specifications, hardware designs, bus partition methodologies, and orchestration paradigms detailed in this repository are subject to one or more pending patent applications with the United States Patent and Trademark Office (USPTO), including:
 >
-> * **U.S. Provisional Patent Application Serial No.:** 64/073,141 (*Hero Safeguard Paradigm Architecture*)
+> * **U.S. Provisional Patent Application Serial No.:** 64/073,141 
 > * **USPTO Filing Date:** May 23, 2026
 > * **Lead Inventor / Architect:** Nannette Lao Ballesteros
 > * **IP Origin & Proprietary Control:** Delta Nannette Omega - Yeoman LLC (DNO-Y)
