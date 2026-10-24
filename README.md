@@ -1,4 +1,4 @@
-# HEU-RO Safeguard Paradigm (4SS-ORE-01-HEURO)
+# HEU-RO Safeguard Paradigm (4SS-ORE AI-HEU-RO)
 ### **Deterministic Veracity Gating & Boundary Validation Infrastructure**
 **Immutable Ethical Gating & Real-Time Decision Boundaries for Autonomous Systems**
 
