@@ -4,7 +4,6 @@
 
 * **Status:** Public Technical Preview and Open System Architecture
 * **Statutory Priority:** USPTO Priority Application No. 64/073,141
-* **Release Wave:** Autonomous Boundary & Deterministic Gating Wave
 * **IP Origin:** Delta Nannette Omega - Yeoman LLC (DNO-Y)
 * **Open-Source Steward:** BNG Global Humanitarian Foundation (BNG-GHF)
 * **Industrial & Enterprise Licensing:** Ballesteros Ballast Infrastructure LLC (BBI) / Delta Nannette Omega - Yeoman LLC (DNO-Y)
